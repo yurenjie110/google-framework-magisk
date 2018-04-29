@@ -1,5 +1,5 @@
 # Google Framework
-Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone, Dialer etc.) from Play Store on any unsupported device.
+Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone, Dialer etc.) from Play Store on any device.
 
 ## Instructions ##
 
@@ -10,6 +10,9 @@ Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone
 
 
 ## Changelog ##
+
+##### V1.2.2 #####
+* Updated __sysonfig__
 
 ##### V1.2.1 #####
 * Added new __Google Configs__
