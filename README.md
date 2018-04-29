@@ -1,5 +1,5 @@
 # Google Framework
-Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone, Dialer etc.) from Play Store on any unsupported device.
+Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone, Dialer etc.) from Play Store on any device.
 
 ## Instructions ##
 * __Install Module__ via Magisk Manager/TWRP
@@ -8,6 +8,9 @@ Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone
 * __Download__ Required Apps from Play Store
 
 ## Changelog ##
+
+#### V1.2.2 ####
+* Updated __sysconfig__
 
 #### V1.2.1 ####
 * Added new __Google Configs__
